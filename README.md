@@ -101,6 +101,7 @@ The average temperature overall in Hawaii is about 75, this aligned with June su
 * Average Precipitation
 
 The avarage precipitation overall in Hawaii is about .18, the standard deviation is about about .46.  Again June and December temperatures are less than the Overall rate, and it means that there are more days closer around the mean, the less spread means that there are more days that are filled with sunshine.  Rainfall is usually about 0-2 days on average, there are some days where it is a week or so.
+
 <img width="132" alt="Average precipitation" src="https://user-images.githubusercontent.com/85860367/130312707-7c929f4c-97d3-4c18-9f7f-2201081b04c6.PNG">
 
 <img width="349" alt="Precipitation graph" src="https://user-images.githubusercontent.com/85860367/130312715-f12b01c2-eea7-4d11-9e03-3ddeea78a0a1.PNG">
